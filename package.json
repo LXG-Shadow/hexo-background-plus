@@ -1,0 +1,23 @@
+{
+  "name": "hexo-background-plus",
+  "version": "0.0.1",
+  "description": "my own hexo plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXG-Shadow/hexo-background-plus.git"
+  },
+  "keywords": [
+    "hexo",
+    "background"
+  ],
+  "author": "aynakeya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LXG-Shadow/hexo-background-plus/issues"
+  },
+  "homepage": "https://github.com/LXG-Shadow/hexo-background-plus#readme"
+}
